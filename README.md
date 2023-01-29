@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="center">👋 Hello! I'm Shailendra.</h2>
 <p align="center">
   <a href="https://shailstar.hashnode.dev/">Blog</a> •
