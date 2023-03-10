@@ -10,6 +10,7 @@
 - 💬 Ask me about *javascript and vuejs**
 - 📫 How to reach me: [@shailstar_dev](https://twitter.com/shailstar_dev) on Twitter
 - ⚡ Fun fact: Big Fan of the star wars and star trek.
+- First Contribution : https://github.com/vuetifyjs/vuetify/issues/16517
 
 <p align="center">
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
