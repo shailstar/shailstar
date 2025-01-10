@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently working at [O4S](https://o4s.io/) in the Frontend Team
+- 🔭 I’m currently working at [Indee](https://indee.tv/) in the Frontend Team
 - 🌱 I’m currently learning more on vuejs, deep concept of javascript and yoga
 - 💬 Ask me about *javascript and vuejs**
 - 📫 How to reach me: [@shailstar_dev](https://twitter.com/shailstar_dev) on Twitter
